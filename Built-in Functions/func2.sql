@@ -1,0 +1,1 @@
+SELECT REPLACE (title,'The','***') FROM books
